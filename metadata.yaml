@@ -1,0 +1,48 @@
+_repo: Ole-BullA-Memoir_40297
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Crosby, A. B. (Alpheus Benning)
+    alias: Crosby, Alpheus Benning
+    birthdate: 1832
+    deathdate: 1877
+    gutenberg_agent_id: '43689'
+    url: http://www.gutenberg.org/2009/agents/43689
+  - agent_name: Bull, Ole
+    alias: Bull, Ole Bornemann
+    birthdate: 1810
+    deathdate: 1880
+    gutenberg_agent_id: '45848'
+    url: http://www.gutenberg.org/2009/agents/45848
+covers:
+- cover_type: archival
+  image_path: 40297-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bull, Sara Chapman Thorp
+    aliases:
+    - Thorpe, Sarah C. (Sarah Chapman)
+    - Bull, Sara C. (Sara Chapman)
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '40536'
+    url: http://www.gutenberg.org/2009/agents/40536
+description: ''
+gutenberg_issued: '2012-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40297'
+  lccn: '06006340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bull, Ole, 1810-1880'
+- !lcsh 'Violinists -- Norway -- Biography'
+- !lcsh 'Violin'
+- !lcc 'ML'
+tableOfContents: 'Ole Bull: a memoir / Sara C. Bull -- Anatomy of the violinist /
+  A. B. Crosby -- Violin notes / Ole Bull.'
+title: 'Ole Bull: A Memoir'
+url: http://www.gutenberg.org/ebooks/40297
